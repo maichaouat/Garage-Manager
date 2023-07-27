@@ -11,7 +11,7 @@ In contrast, the logic layer (GarageLogic Solution) consists of objects and thei
 
 Class Diagram
 For a more detailed insight into the project's design and relationships between classes, please refer to the class diagram file.
-
+![diagram](https://github.com/maichaouat/Garage-Manager/blob/abd75974824123126ffa33f3a4f3e1967a22337d/%D7%AA%D7%9E%D7%95%D7%A0%D7%941.png)
 The Garage Manager project embraces best practices in software architecture, making it a scalable and easy-to-maintain solution. With the clear separation of concerns and modular design, the application can be expanded to accommodate new vehicle types without compromising the overall structure.
 
 The system is designed to provide a user-friendly experience for managing a garage efficiently.
