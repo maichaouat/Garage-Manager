@@ -1,4 +1,4 @@
-Garage Manager
+
 Garage Manager is a robust console application meticulously crafted to streamline garage management tasks. The user interface presents an extensive menu with diverse capabilities to ensure efficient garage operations. The system seamlessly handles different vehicle types, such as Cars, Motorcycles, and Trucks, and it offers the flexibility to specify whether a vehicle is powered by an Electric or Combustible engine. Moreover, the application is designed with scalability in mind, making it effortless to accommodate additional vehicle types when required.
 
 Project Overview
