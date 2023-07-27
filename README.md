@@ -1,5 +1,5 @@
 
-Garage Manager<br>
+Garage Manager
 ![diagram](https://github.com/maichaouat/Garage-Manager/blob/abd75974824123126ffa33f3a4f3e1967a22337d/%D7%AA%D7%9E%D7%95%D7%A0%D7%941.png)
 Robust console application meticulously crafted to streamline garage management tasks. The user interface presents an extensive menu with diverse capabilities to ensure efficient garage operations. The system seamlessly handles different vehicle types, such as Cars, Motorcycles, and Trucks, and it offers the flexibility to specify whether a vehicle is powered by an Electric or Combustible engine. Moreover, the application is designed with scalability in mind, making it effortless to accommodate additional vehicle types when required.
 
