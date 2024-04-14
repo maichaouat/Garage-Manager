@@ -20,7 +20,7 @@ namespace Ex03.GarageLogic
             m_CurrentFuelAmount = i_CurrentFuelAmount;
             m_FuelTankCapacity = i_FuelTankCapacity;
         }
-        // $G$ CSS-999 (0) Good with the override.
+       
         internal override void ChargeUp(float i_AmountToRefuel, ePowerType i_FuelType)
         {
             if(i_FuelType != m_FuelType)
