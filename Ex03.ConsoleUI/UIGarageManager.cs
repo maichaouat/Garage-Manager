@@ -5,7 +5,7 @@ using Ex03.GarageLogic;
 
 namespace Ex03.ConsoleUI
 {
-    // $G$ DSN-999 (-2) You need to notify the user about the input options/format/etc.. for example for vehicle type
+   
     internal class UIGarageManager
     {
         private const uint k_OptionsPossibleInMenu = 6;
